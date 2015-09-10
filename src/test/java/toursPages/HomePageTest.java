@@ -30,6 +30,8 @@ public class HomePageTest {
 	  driver.findElement(By.linkText("Car Rentals")).click();
 	  System.out.println(driver.getTitle());
 	  
+	  System.out.println("to test git from eclipse");
+	  
 	  
   }
 
